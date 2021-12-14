@@ -1,7 +1,5 @@
 # Cloudreve PHP 版本
 
-![logo_white.png](https://raw.githubusercontent.com/HFO4/Cloudreve/master/static/img/logo_white.png)
-
 Cloudreve - Make the cloud easy for everyone
 =========================
 [![Packagist](https://img.shields.io/packagist/v/HFO4/Cloudreve.svg)](https://packagist.org/packages/hfo4/cloudreve)
