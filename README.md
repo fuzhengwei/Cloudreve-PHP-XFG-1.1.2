@@ -1,3 +1,5 @@
+# Cloudreve PHP 版本
+
 ![logo_white.png](https://raw.githubusercontent.com/HFO4/Cloudreve/master/static/img/logo_white.png)
 
 Cloudreve - Make the cloud easy for everyone
@@ -9,8 +11,6 @@ Cloudreve - Make the cloud easy for everyone
 [主页](https://cloudreve.org) | [论坛](https://forum.cloudreve.org) | [演示站](https://pan.aoaoao.me) | [QQ群](https://jq.qq.com/?_wv=1027&k=5TX6sJY) |[Telegram群组](https://t.me/cloudreve)
 
 基于ThinkPHP构建的网盘系统，能够助您以较低成本快速搭建起公私兼备的网盘。
-
-![homepage.png](https://download.aoaoao.me/homepage-linux.png)
 
 目前已经实现的特性：
 
